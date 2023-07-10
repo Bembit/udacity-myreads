@@ -1,11 +1,11 @@
-# udacity-myreads
+# Udacity React ND 1st project  - MyReads
 
-live - https://madbence-myreads.herokuapp.com/
+~~Live demo - https://madbence-readable.herokuapp.com/~~
 
-Udacity React ND 1st project  - MyReads
+A bookshelf app in react from 2018's 4 month Udacity React bootcamp.
 
-// clone the repo
-// cd into the folder you cloned it into
-// npm install
-// npm start
-// will start on localhost:3000 if available or prompt to accept an unused port
+Intro to class components, props and state.
+
+![myreads.jpg](myreads.jpg)
+
+Archived, depcrecated, Heroku free dynos gone. 6 years old legacy React stuff. Still runs perfectly on localhost with node 16.2.
